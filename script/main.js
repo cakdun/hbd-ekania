@@ -25,11 +25,11 @@ window.addEventListener("load", () => {
     background: "#fff",
     backdrop: `
     rgba(92, 86, 86, 0.4)
-    url("https://github.com/cakdun/hbd-ekania/blob/main/img/us.jpeg")
+    url("/img/cat.gif")
     center top
     no-repeat
   `,
-    imageUrl: "/img/us.jpeg",
+    imageUrl: "./img/us.jpeg",
 
     imageAlt: "Custom image",
     showCancelButton: true,
