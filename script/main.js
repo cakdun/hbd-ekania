@@ -29,7 +29,8 @@ window.addEventListener("load", () => {
     center top
     no-repeat
   `,
-    imageUrl: "./img/us.jpeg",
+    imageUrl:
+      "https://raw.githubusercontent.com/cakdun/hbd-ekania/refs/heads/main/img/us.jpeg",
 
     imageAlt: "Custom image",
     showCancelButton: true,
