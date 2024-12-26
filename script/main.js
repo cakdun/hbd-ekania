@@ -47,7 +47,8 @@ window.addEventListener("load", () => {
         title: "Oke Deh",
         text: "Baca yah tanpa musik wkwkw",
         icon: "warning",
-        imageUrl: "/img/gkmau.png",
+        imageUrl:
+          "https://raw.githubusercontent.com/cakdun/hbd-ekania/refs/heads/main/img/gkmau.png",
       }).then((result) => {
         animationTimeline();
       });
