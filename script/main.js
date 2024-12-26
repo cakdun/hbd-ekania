@@ -25,7 +25,7 @@ window.addEventListener("load", () => {
     background: "#fff",
     backdrop: `
     rgba(92, 86, 86, 0.4)
-    url("/img/cat.gif")
+    url("https://github.com/cakdun/hbd-ekania/blob/main/img/us.jpeg")
     center top
     no-repeat
   `,
